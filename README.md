@@ -17,7 +17,7 @@
         😭 &nbsp; Learning how to talk....
         <br/>
         <br/>
-        🧑🏽‍💻 &nbsp; Discovering new tech and building something with it.
+        🧑🏽‍💻 &nbsp; Building Something.
         <br/>
         <br/>
       <p/>
