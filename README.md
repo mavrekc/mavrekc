@@ -24,14 +24,14 @@
 
 ```
 ╭──────────────────────────────────────────────────────╮
-│                                                                 │
-│  IDENT ......  Ahsan Faizan  ·  @mavrekc                        │
-│  ORIGIN .....  Pakistan  ·  UTC +05:00                          │
-│  BUILDING ...  full-stack web  ·  developer tooling             │
-│  STACK ......  TypeScript  ·  Python  ·  Go                     │
-│  HEADING ....  AI engineering                                   │
-│  STATUS .....  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  compounding            │
-│                                                                 │
+│                                                      │
+│  IDENT ......  Ahsan Faizan  ·  @mavrekc             │
+│  ORIGIN .....  Pakistan  ·  UTC +05:00               │
+│  BUILDING ...  full-stack web  ·  developer tooling  │
+│  STACK ......  TypeScript  ·  Python  ·  Go          │
+│  HEADING ....  AI engineering                        │
+│  STATUS .....  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  compounding     │
+│                                                      │
 ╰──────────────────────────────────────────────────────╯
 ```
 
@@ -42,28 +42,28 @@
 - **I reach for** — TypeScript and Python by default, Go when it has to be small and hold up.
 - **I'm heading toward** — AI engineering, the systems side: retrieval, evals, and the plumbing that makes a model useful in production.
 
-<br>
-
-<details>
-<summary><b>▸ boot log</b></summary>
-
-<br>
-
-```console
-$ make --verbose
-
-[ 0.001 ] cold start ......................... ok
-[ 0.114 ] mounting /dev/curiosity ............ ok
-[ 0.402 ] loading typescript, python, go ..... ok
-[ 2.008 ] scanning for interesting problems .. found several
-[ 3.400 ] coffee ............................. critical
-[ 3.401 ] retrying ........................... ok
-[ 4.000 ] ignition sequence .................. START
-```
-
-</details>
-
-<br>
+<!-- <br> -->
+<!---->
+<!-- <details> -->
+<!-- <summary><b>▸ boot log</b></summary> -->
+<!---->
+<!-- <br> -->
+<!---->
+<!-- ```console -->
+<!-- $ make --verbose -->
+<!---->
+<!-- [ 0.001 ] cold start ......................... ok -->
+<!-- [ 0.114 ] mounting /dev/curiosity ............ ok -->
+<!-- [ 0.402 ] loading typescript, python, go ..... ok -->
+<!-- [ 2.008 ] scanning for interesting problems .. found several -->
+<!-- [ 3.400 ] coffee ............................. critical -->
+<!-- [ 3.401 ] retrying ........................... ok -->
+<!-- [ 4.000 ] ignition sequence .................. START -->
+<!-- ``` -->
+<!---->
+<!-- </details> -->
+<!---->
+<!-- <br> -->
 
 ## ░▒▓ languages
 
