@@ -10,11 +10,11 @@
 
 </details>
 
-<br>
+<!-- <br> -->
 
-<a href="https://github.com/mavrekc?tab=followers"><img src="https://img.shields.io/github/followers/mavrekc?style=flat-square&logo=github&logoColor=fe8019&label=FOLLOWERS&labelColor=1d2021&color=3c3836" alt="Followers"></a>
-<a href="https://www.linkedin.com/in/ahsan-faizan"><img src="https://img.shields.io/badge/LINKEDIN-ahsan--faizan-3c3836?style=flat-square&logo=linkedin&logoColor=83a598&labelColor=1d2021" alt="LinkedIn"></a>
-<a href="https://twitter.com/Dev_BEETAcode"><img src="https://img.shields.io/badge/X-Dev__BEETAcode-3c3836?style=flat-square&logo=x&logoColor=ebdbb2&labelColor=1d2021" alt="X"></a>
+<!-- <a href="https://github.com/mavrekc?tab=followers"><img src="https://img.shields.io/github/followers/mavrekc?style=flat-square&logo=github&logoColor=fe8019&label=FOLLOWERS&labelColor=1d2021&color=3c3836" alt="Followers"></a> -->
+<!-- <a href="https://www.linkedin.com/in/ahsan-faizan"><img src="https://img.shields.io/badge/LINKEDIN-ahsan--faizan-3c3836?style=flat-square&logo=linkedin&logoColor=83a598&labelColor=1d2021" alt="LinkedIn"></a> -->
+<!-- <a href="https://twitter.com/Dev_BEETAcode"><img src="https://img.shields.io/badge/X-Dev__BEETAcode-3c3836?style=flat-square&logo=x&logoColor=ebdbb2&labelColor=1d2021" alt="X"></a> -->
 
 </div>
 
@@ -35,8 +35,6 @@
 ╰──────────────────────────────────────────────────────╯
 ```
 
-<!-- <<EDIT>> Three points. Cut anything that isn't true — a short honest
-     list reads better than a long aspirational one. -->
 
 - **I build** — web apps end to end, plus small tools for the things I got tired of doing by hand.
 - **I reach for** — TypeScript and Python by default, Go when it has to be small and hold up.
