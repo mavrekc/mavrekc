@@ -35,11 +35,6 @@
 ╰──────────────────────────────────────────────────────╯
 ```
 
-
-- **I build** — web apps end to end, plus small tools for the things I got tired of doing by hand.
-- **I reach for** — TypeScript and Python by default, Go when it has to be small and hold up.
-- **I'm heading toward** — AI engineering, the systems side: retrieval, evals, and the plumbing that makes a model useful in production.
-
 <!-- <br> -->
 <!---->
 <!-- <details> -->
